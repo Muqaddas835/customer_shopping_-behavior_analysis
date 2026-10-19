@@ -50,9 +50,16 @@ The SQL script includes queries or query drafts to investigate:
 
 Some questions in the SQL file are comments without a completed query. In particular, the question about the top five products by average review rating is not implemented as an executable query in the supplied script.
 
-## Dashboard
+<CodeBlock language="markdown" editable>
+## Power BI Dashboard
 
-A dashboard was created for this project. Add the dashboard file (for example, a Power BI `.pbix` file, if applicable) and/or a clear screenshot to the `dashboard/` folder so that visitors can view the actual dashboard. The dashboard artifact was not included with the two files supplied for this README, so this repository package does not currently contain the dashboard itself.
+An interactive Power BI dashboard was developed to complement the customer shopping behavior analysis and present insights in a clear, visual format.
+- Tool: Microsoft Power BI
+- File: customer_behaviour_dashboard.pbix
+- Purpose: Visualize customer shopping behavior and support data-driven analysis.
+How to View
+Download the customer_behaviour_dashboard.pbix file from this repository and open it using Power BI Desktop.
+</CodeBlock>
 
 ## Key SQL Concepts
 
